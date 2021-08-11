@@ -44,11 +44,11 @@ It recognizes the following syntax commands:
 
 
 
-Authors
-Gadi Pessah - Initial work
-Shahar Hikri - Updates according to requests
-Omer Ratsabi - Updates according to requests
+Authors:
+* Gadi Pessah - Initial work
+* Shahar Hikri - Updates according to requests
+* Omer Ratsabi - Updates according to requests
 
-* Required update made by us (in Hebrew) in file: AST_exercise_2021B.doc
+- Info about our updates (in Hebrew) in file: AST_exercise_2021B.doc (it was a task for compilation course).
 
 after after compilation (by 'make') - run 'myprog input_src_code_file_name'
