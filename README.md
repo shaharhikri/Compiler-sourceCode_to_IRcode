@@ -9,38 +9,38 @@ Gadi Pessah's Compilation course @ Afeka College
 * Made in Ubuntu 18.04 and gcc conpiler, by flex&bison tools.
 
 It recognizes the following syntax commands:
-+
--
-*
-/
-<
->
-<=
->=
-==
-!=
-(
-)
-=
-;
-:
-{    
-}
-if
-else
-while
-int
-float
-or
-and
-not
-=>
-switch
-case
-default
-break
-read
-do
+ + 
+ - 
+ * 
+ / 
+ < 
+ > 
+ <= 
+ >= 
+ == 
+ != 
+ ( 
+ ) 
+ = 
+ ; 
+ : 
+ { 
+ } 
+ if 
+ else 
+ while 
+ int 
+ float 
+ or 
+ and 
+ not 
+ => 
+ switch 
+ case 
+ default 
+ break 
+ read 
+ do 
 
 
 
