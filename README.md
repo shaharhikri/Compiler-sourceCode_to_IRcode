@@ -9,14 +9,16 @@ Gadi Pessah's Compilation course @ Afeka College
 * Made in Ubuntu 18.04 and gcc conpiler, by flex&bison tools.
 
 It recognizes the following syntax commands:
- + 
+ 
+ >= 
+  + 
  - 
  * 
  / 
  < 
  > 
  <= 
- >= 
+ >=
  == 
  != 
  ( 
