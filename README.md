@@ -1,5 +1,5 @@
-# Compiler_part-source_code_to_three_address_IR_code_convertor
-Compiler (Front End):
+# Compiler with C\C++ using flex&bison
+Compiler (Front End - Compiler_part-source_code_to_three_address_IR_code_convertor):
 
 The part of the compiler which convert source code to an Intermediate code/representation (IR).
 A three-address code compiler using AST for Mr.
