@@ -1,5 +1,5 @@
 # Compiler with C\C++ using flex&bison
-Compiler (Front End - convert our programming language(source code) to three adress code(IR CODE) ).
+Compiler (Front End - convert our programming language(source code) to three address code(IR CODE) ).
 
 The part of the compiler which convert source code to an Intermediate code/representation (IR).
 A three-address code compiler using AST for Mr.
